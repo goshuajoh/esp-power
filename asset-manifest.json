@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/esp-power/static/css/main.55705c7a.css",
+    "main.js": "/esp-power/static/js/main.6f9f79fa.js",
+    "static/js/453.6e4959e1.chunk.js": "/esp-power/static/js/453.6e4959e1.chunk.js",
+    "static/media/funny-my-favorite-dog-gifs-5.gif": "/esp-power/static/media/funny-my-favorite-dog-gifs-5.9024226a95ece45cd981.gif",
+    "static/media/logo-black.svg": "/esp-power/static/media/logo-black.c5f711a9451ad9cc37fb0b976dd63da0.svg",
+    "index.html": "/esp-power/index.html",
+    "main.55705c7a.css.map": "/esp-power/static/css/main.55705c7a.css.map",
+    "main.6f9f79fa.js.map": "/esp-power/static/js/main.6f9f79fa.js.map",
+    "453.6e4959e1.chunk.js.map": "/esp-power/static/js/453.6e4959e1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.55705c7a.css",
+    "static/js/main.6f9f79fa.js"
+  ]
+}
